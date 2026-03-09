@@ -70,8 +70,10 @@
  * Time Complexity:
    * Access: `O(n)`
    * Search: `O(n)`
-   * Insert: `O(1)`
-   * Remove: `O(1)`
+   * Insert: `O(1)` if we consider finding the node its O(n)
+   * Remove: `O(1)` if we consider finding the node its O(n)
+
+linked list it better to insert and remove quickly. not better for random access.
 
 ### Stack
  * A *Stack* is a collection of elements, with two principle operations: *push*, which adds to the collection, and
