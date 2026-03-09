@@ -94,6 +94,7 @@ linked list it better to insert and remove quickly. not better for random access
    * Search: `O(n)`
    * Insert: `O(1)`
    * Remove: `O(1)`
+* double ended queues - A deque is a data structure where both insertion and deletion can happen at the front and the rear
 
 ### Tree
  * A *Tree* is an undirected, connected, acyclic graph
