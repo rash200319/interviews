@@ -97,7 +97,7 @@ linked list it better to insert and remove quickly. not better for random access
 * double ended queues - A deque is a data structure where both insertion and deletion can happen at the front and the rear
 
 ### Tree
- * A *Tree* is an undirected, connected, acyclic graph
+ * A *Tree* is an undirected, connected, acyclic graph (no loops)
 
 ### Binary Tree
  * A *Binary Tree* is a tree data structure in which each node has at most two children, which are referred to as
